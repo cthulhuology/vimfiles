@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='C:/Users/David/Code/Win32-OpenSSH'
+let g:netrw_dirhist_2='c:\users\david\code\sdlforth\tutorial'
+let g:netrw_dirhist_3='c:/users/david/code/sdlforth/tutorial'
+let g:netrw_dirhist_4='c:\users\david\code\sdlforth\tutorial'
+let g:netrw_dirhist_5='C:\Users\dave\Erlang\urelay\rel'
